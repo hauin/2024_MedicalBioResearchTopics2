@@ -1,4 +1,4 @@
-# 2024_MedicalBioResearchTopics2
+# Medical BioResearch Topics 2
 ## 1. Course Description
 
 This course encompasses an introduction to brain imaging data as a form of clinical data, elucidation of processing methodologies for brain imaging data in the context of artificial intelligence model development, and hands-on practice in constructing artificial intelligence models based on brain imaging data across three distinct topics.
@@ -12,6 +12,7 @@ Prerequisites for this course include a foundational understanding of statistica
 ## 3. Course Format
 
 Lecture	60%
+
 Discussion/Presentation	40%
 
 This course is structured in two phases: initially, lectures provide a comprehensive introduction to brain imaging data acquisition and elucidate processing methodologies; subsequently, students engage in hands-on development of artificial intelligence models based on brain imaging data across three distinct topics. The course culminates in student presentations and discussions, focusing on the predictive performance and outcomes of the implemented models.
